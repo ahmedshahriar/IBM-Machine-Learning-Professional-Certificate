@@ -1,5 +1,5 @@
 # IBM Machine Learning Professional Certificate
-This intermediate level certification focuses on main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, and also  specialized topics such as Time Series Analysis and Survival Analysis.
+This intermediate level certification focuses on Statistical Hypothesis Testing, Exploratory Data Analysis and main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, and also  specialized topics such as Time Series Analysis and Survival Analysis.
 
 Details here - [IBM Machine Learning Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
