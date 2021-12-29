@@ -1,14 +1,19 @@
 # IBM Machine Learning Professional Certificate
+This intermediate level certification focuses on main areas of Machine Learning: Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning, and also  specialized topics such as Time Series Analysis and Survival Analysis.
 
-## Assignments / Projects
+Details here - [IBM Machine Learning Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning)
+
+## My Assignments / Projects on GitHub
 1. [IBM Telco Customer Churn Prediction](https://github.com/ahmedshahriar/Customer-Churn-Prediction) [EDA + Binary Classification]
 2. [Ames Housing Price Prediction Analysis](https://github.com/ahmedshahriar/Housing-Price-Prediction) [Multivariate Regression]
 3. [PulsePoint Data Analytics](https://github.com/ahmedshahriar/PulsePoint-Data-Analytics) [EDA + Unsupervised]
 4. [515K Hotel Reviews Sentiment Analysis](https://github.com/ahmedshahriar/Sentiment-Analysis/tree/main/SA-with-Universal-Sentence-Encoder) [Sentiment Analysis]
 5. [Bike Share Demand Prediction](https://github.com/ahmedshahriar/Time-Series-Projects/blob/main/Demand%20Prediction/Bike-Share-Demand-Prediction.ipynb) [Multivariate Time Series]
 
-## Certifications -
-
+## My Certifications -
+<details>
+  <summary>Click to expand!</summary>
+  
 ### [IBM Machine Learning Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/AQ99BG2R7RBP)
 
 1. Exploratory Data Analysis for Machine Learning [View Certificate](https://www.coursera.org/account/accomplishments/verify/VH7SPLWECTJB)
